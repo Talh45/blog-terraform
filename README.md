@@ -67,7 +67,7 @@ terraform output public_ip
 ### 4️⃣ Access Website
 Open in browser:
 ```
-http://<public-ip>
+(http://13.220.182.111/)
 ```
 
 ---
