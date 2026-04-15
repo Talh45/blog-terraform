@@ -67,7 +67,7 @@ terraform output public_ip
 ### 4️⃣ Access Website
 Open in browser:
 ```
-(http://13.220.182.111/)
+http://13.220.182.111/
 ```
 
 ---
@@ -97,10 +97,11 @@ This project simulates how DevOps engineers automate infrastructure provisioning
 ---
 
 ## 🔥 Future Improvements
-- Add VPC with public/private subnets  
+- Implement custom VPC with public and private subnets  
+- Add Elastic IP for consistent public access  
 - Integrate with Ansible for configuration management  
-- Add Load Balancer (ALB)  
-- Implement CI/CD pipeline  
+- Add Application Load Balancer (ALB) for scalability  
+- Implement CI/CD pipeline (GitHub Actions)  
 
 ---
 
