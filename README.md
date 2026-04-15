@@ -75,10 +75,10 @@ Open in browser:
 ## 📸 Screenshots
 
 ### EC2 Instance Running
-![EC2](screenshots/ec2_running_1.png)
+![EC2]/ec2_running_1.png)
 
 ### Website Live
-![Website](screenshots/website_live.png)
+![Website]/website_live.png)
 
 ---
 
