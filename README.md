@@ -87,7 +87,7 @@ http://13.220.182.111/
 - Automating server setup using user_data scripts  
 - Integrating GitHub with cloud deployment  
 - Basic cloud security using Security Groups  
-- Use of Elastic IP for consistent access  
+  
 
 ---
 
