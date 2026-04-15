@@ -78,7 +78,7 @@ Open in browser:
 ![EC2](ec2_running_1.png)
 
 ### Website Live
-![Website]/website_live.png)
+![Website](website_live.png)
 
 ---
 
