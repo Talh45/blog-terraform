@@ -1,4 +1,4 @@
-# 🚀 Blog Deployment using Terraform (AutoDeployX)
+# 🚀 Automated Web Infrastructure Deployment using Terraform (AutoDeployX)
 
 ## 📌 Project Overview
 This project demonstrates automated deployment of a web application on AWS using Terraform. The infrastructure is provisioned using Infrastructure as Code (IaC), and the application is deployed automatically using a shell script during EC2 instance initialization.
